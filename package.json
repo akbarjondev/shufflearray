@@ -1,5 +1,5 @@
 {
-  "name": "shufflearray",
+  "name": "shuff-arr",
   "version": "1.0.0",
   "description": "Shufflle || randomize given array",
   "main": "index.js",
