@@ -1,6 +1,6 @@
 {
   "name": "shuff-arr",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shufflle || randomize given array",
   "main": "index.js",
   "scripts": {
