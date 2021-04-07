@@ -1,0 +1,24 @@
+{
+  "name": "shufflearray",
+  "version": "1.0.0",
+  "description": "Shufflle || randomize given array",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akbarjondev/shufflearray.git"
+  },
+  "keywords": [
+    "shuffle",
+    "randomize",
+    "array"
+  ],
+  "author": "akbarjondev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akbarjondev/shufflearray/issues"
+  },
+  "homepage": "https://github.com/akbarjondev/shufflearray#readme"
+}
