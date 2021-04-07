@@ -1,6 +1,6 @@
 # Shuffle array
 
-__Easy randomize your ordered Array__
+_Easy randomize your ordered Array_
 
 ## Installation
 
